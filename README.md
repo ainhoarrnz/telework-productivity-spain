@@ -58,7 +58,7 @@ To reproduce this analysis, you can request the same data directly from INE:
 - Quarterly EPA microdata (2-digit level), 2020–2024  
 - Quarterly DOMICI annex, 2020–2024
 
-Request form: [https://www.ine.es/ss/Satellite?L=es_ES&c=Page&cid=1259942408928&p=1259942408928&pagename=ProductosYServicios/PYSLayout](https://www.ine.es/ss/Satellite?L=es_ES&c=Page&cid=1259942408928&p=1259942408928&pagename=ProductosYServicios/PYSLayout)
+Request form: (https://www.ine.es/dyngs/DAB/index.htm?cid=1722).
 
 Additional variables (VAB, GFCF, unemployment) are publicly available from:
 - INE National Accounts: https://www.ine.es
